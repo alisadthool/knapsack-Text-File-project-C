@@ -1,7 +1,7 @@
 # knapsack-text-file-project-c
 Knapsack sorting project , in C# 
 
--->Welcome to the ReadMe for the Recipe app console program
+-->Welcome to the ReadMe for the knapsack console program
 
 --> Name of the Application
 knapsack-text-file-project-cSharp
